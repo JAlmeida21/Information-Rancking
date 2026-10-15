@@ -1,0 +1,12 @@
+# Credenciales locales
+iniciar_api.bat
+.env
+
+# Datos reales generados desde NetSuite
+resultados/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/

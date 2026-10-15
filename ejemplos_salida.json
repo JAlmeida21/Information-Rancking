@@ -1,0 +1,1423 @@
+{
+  "F1_top_rank_por_gerencia": {
+    "generated_at": "2026-10-08T18:33:51+00:00",
+    "period": {
+      "start": "2026-10-01",
+      "end": "2026-10-31",
+      "label": "Octubre 2026"
+    },
+    "expected_pct": 25.8,
+    "trend_threshold_pct": 20.6,
+    "metas_missing": false,
+    "metas_count": 4,
+    "metas_expected": 5,
+    "totals": {
+      "num_ventas": 8,
+      "valor_colocado": 6450000.0,
+      "valor_ingresado": 610000.0,
+      "meta_colocado": 23000000.0,
+      "meta_ingresado": 2200000.0,
+      "pct_colocado": 28
+    },
+    "metrics": [
+      {
+        "id": "pct_colocado",
+        "label": "Avance Valor Colocado vs Meta",
+        "format": "percent",
+        "items": [
+          {
+            "gerencia_id": 60586,
+            "manager": "Petra Sanchez - Costa 1",
+            "zona": "Costa 1",
+            "value": 42,
+            "trend": "up",
+            "percent_of_leader": 100.0
+          },
+          {
+            "gerencia_id": 34823,
+            "manager": "Gerencia - Urbano",
+            "zona": "Urbano",
+            "value": 36,
+            "trend": "up",
+            "percent_of_leader": 85.7
+          },
+          {
+            "gerencia_id": 45956,
+            "manager": "Gerencia - Satelite",
+            "zona": "Satelite",
+            "value": 10,
+            "trend": "down",
+            "percent_of_leader": 23.8
+          },
+          {
+            "gerencia_id": 60594,
+            "manager": "Gerencia - Campestre",
+            "zona": "Campestre",
+            "value": 0,
+            "trend": "down",
+            "percent_of_leader": 0.0
+          },
+          {
+            "gerencia_id": 55556,
+            "manager": "Gerencia - Costa 2",
+            "zona": "Costa 2",
+            "value": 0,
+            "trend": "down",
+            "percent_of_leader": 0.0
+          }
+        ]
+      },
+      {
+        "id": "pct_ingresado",
+        "label": "Avance Valor Ingresado vs Meta",
+        "format": "percent",
+        "items": [
+          {
+            "gerencia_id": 60586,
+            "manager": "Petra Sanchez - Costa 1",
+            "zona": "Costa 1",
+            "value": 42,
+            "trend": "up",
+            "percent_of_leader": 100.0
+          },
+          {
+            "gerencia_id": 34823,
+            "manager": "Gerencia - Urbano",
+            "zona": "Urbano",
+            "value": 29,
+            "trend": "up",
+            "percent_of_leader": 69.0
+          },
+          {
+            "gerencia_id": 45956,
+            "manager": "Gerencia - Satelite",
+            "zona": "Satelite",
+            "value": 10,
+            "trend": "down",
+            "percent_of_leader": 23.8
+          },
+          {
+            "gerencia_id": 60594,
+            "manager": "Gerencia - Campestre",
+            "zona": "Campestre",
+            "value": 0,
+            "trend": "down",
+            "percent_of_leader": 0.0
+          },
+          {
+            "gerencia_id": 55556,
+            "manager": "Gerencia - Costa 2",
+            "zona": "Costa 2",
+            "value": 0,
+            "trend": "down",
+            "percent_of_leader": 0.0
+          }
+        ]
+      },
+      {
+        "id": "num_ventas",
+        "label": "Número de Ventas",
+        "format": "number",
+        "items": [
+          {
+            "gerencia_id": 60586,
+            "manager": "Petra Sanchez - Costa 1",
+            "zona": "Costa 1",
+            "value": 4,
+            "trend": null,
+            "percent_of_leader": 100.0
+          },
+          {
+            "gerencia_id": 34823,
+            "manager": "Gerencia - Urbano",
+            "zona": "Urbano",
+            "value": 3,
+            "trend": null,
+            "percent_of_leader": 75.0
+          },
+          {
+            "gerencia_id": 45956,
+            "manager": "Gerencia - Satelite",
+            "zona": "Satelite",
+            "value": 1,
+            "trend": null,
+            "percent_of_leader": 25.0
+          },
+          {
+            "gerencia_id": 60594,
+            "manager": "Gerencia - Campestre",
+            "zona": "Campestre",
+            "value": 0,
+            "trend": null,
+            "percent_of_leader": 0.0
+          },
+          {
+            "gerencia_id": 55556,
+            "manager": "Gerencia - Costa 2",
+            "zona": "Costa 2",
+            "value": 0,
+            "trend": null,
+            "percent_of_leader": 0.0
+          }
+        ]
+      },
+      {
+        "id": "valor_ingresado",
+        "label": "Valor Ingresado",
+        "format": "currency",
+        "items": [
+          {
+            "gerencia_id": 60586,
+            "manager": "Petra Sanchez - Costa 1",
+            "zona": "Costa 1",
+            "value": 415000.0,
+            "trend": null,
+            "percent_of_leader": 100.0
+          },
+          {
+            "gerencia_id": 34823,
+            "manager": "Gerencia - Urbano",
+            "zona": "Urbano",
+            "value": 145000.0,
+            "trend": null,
+            "percent_of_leader": 34.9
+          },
+          {
+            "gerencia_id": 45956,
+            "manager": "Gerencia - Satelite",
+            "zona": "Satelite",
+            "value": 50000.0,
+            "trend": null,
+            "percent_of_leader": 12.0
+          },
+          {
+            "gerencia_id": 60594,
+            "manager": "Gerencia - Campestre",
+            "zona": "Campestre",
+            "value": 0.0,
+            "trend": null,
+            "percent_of_leader": 0.0
+          },
+          {
+            "gerencia_id": 55556,
+            "manager": "Gerencia - Costa 2",
+            "zona": "Costa 2",
+            "value": 0.0,
+            "trend": null,
+            "percent_of_leader": 0.0
+          }
+        ]
+      },
+      {
+        "id": "valor_colocado",
+        "label": "Valor Colocado",
+        "format": "currency",
+        "items": [
+          {
+            "gerencia_id": 60586,
+            "manager": "Petra Sanchez - Costa 1",
+            "zona": "Costa 1",
+            "value": 4150000.0,
+            "trend": null,
+            "percent_of_leader": 100.0
+          },
+          {
+            "gerencia_id": 34823,
+            "manager": "Gerencia - Urbano",
+            "zona": "Urbano",
+            "value": 1800000.0,
+            "trend": null,
+            "percent_of_leader": 43.4
+          },
+          {
+            "gerencia_id": 45956,
+            "manager": "Gerencia - Satelite",
+            "zona": "Satelite",
+            "value": 500000.0,
+            "trend": null,
+            "percent_of_leader": 12.0
+          },
+          {
+            "gerencia_id": 60594,
+            "manager": "Gerencia - Campestre",
+            "zona": "Campestre",
+            "value": 0.0,
+            "trend": null,
+            "percent_of_leader": 0.0
+          },
+          {
+            "gerencia_id": 55556,
+            "manager": "Gerencia - Costa 2",
+            "zona": "Costa 2",
+            "value": 0.0,
+            "trend": null,
+            "percent_of_leader": 0.0
+          }
+        ]
+      }
+    ],
+    "gerencias": [
+      {
+        "gerencia_id": 60594,
+        "manager": "Gerencia - Campestre",
+        "zona": "Campestre",
+        "num_ventas": 0,
+        "valor_colocado": 0.0,
+        "valor_ingresado": 0.0,
+        "meta_ventas": 0,
+        "meta_colocado": 0.0,
+        "meta_ingresado": 0.0,
+        "pct_colocado": 0,
+        "pct_ingresado": 0,
+        "trend_colocado": "down",
+        "trend_ingresado": "down"
+      },
+      {
+        "gerencia_id": 55556,
+        "manager": "Gerencia - Costa 2",
+        "zona": "Costa 2",
+        "num_ventas": 0,
+        "valor_colocado": 0.0,
+        "valor_ingresado": 0.0,
+        "meta_ventas": 4,
+        "meta_colocado": 3000000.0,
+        "meta_ingresado": 200000.0,
+        "pct_colocado": 0,
+        "pct_ingresado": 0,
+        "trend_colocado": "down",
+        "trend_ingresado": "down"
+      },
+      {
+        "gerencia_id": 60586,
+        "manager": "Petra Sanchez - Costa 1",
+        "zona": "Costa 1",
+        "num_ventas": 4,
+        "valor_colocado": 4150000.0,
+        "valor_ingresado": 415000.0,
+        "meta_ventas": 10,
+        "meta_colocado": 10000000.0,
+        "meta_ingresado": 1000000.0,
+        "pct_colocado": 42,
+        "pct_ingresado": 42,
+        "trend_colocado": "up",
+        "trend_ingresado": "up"
+      },
+      {
+        "gerencia_id": 45956,
+        "manager": "Gerencia - Satelite",
+        "zona": "Satelite",
+        "num_ventas": 1,
+        "valor_colocado": 500000.0,
+        "valor_ingresado": 50000.0,
+        "meta_ventas": 5,
+        "meta_colocado": 5000000.0,
+        "meta_ingresado": 500000.0,
+        "pct_colocado": 10,
+        "pct_ingresado": 10,
+        "trend_colocado": "down",
+        "trend_ingresado": "down"
+      },
+      {
+        "gerencia_id": 34823,
+        "manager": "Gerencia - Urbano",
+        "zona": "Urbano",
+        "num_ventas": 3,
+        "valor_colocado": 1800000.0,
+        "valor_ingresado": 145000.0,
+        "meta_ventas": 6,
+        "meta_colocado": 5000000.0,
+        "meta_ingresado": 500000.0,
+        "pct_colocado": 36,
+        "pct_ingresado": 29,
+        "trend_colocado": "up",
+        "trend_ingresado": "up"
+      }
+    ]
+  },
+  "F2_vendedores_por_gerencia": {
+    "generated_at": "2026-10-08T18:33:51+00:00",
+    "period": {
+      "start": "2026-10-01",
+      "end": "2026-10-08",
+      "label": "01/10/2026 - 08/10/2026",
+      "months": 1
+    },
+    "metas_missing": false,
+    "gerencias": [
+      {
+        "id": 60586,
+        "manager": "Petra Sanchez - Costa 1",
+        "zona": "Costa 1",
+        "metas": {
+          "ventas": 10,
+          "colocado": 10000000.0,
+          "ingresado": 1000000.0
+        },
+        "totales": {
+          "ventas": 4,
+          "colocado": 4150000.0,
+          "ingresado": 415000.0
+        },
+        "pct": {
+          "ventas": 40,
+          "colocado": 42,
+          "ingresado": 42
+        },
+        "vendedores": [
+          {
+            "id": 101,
+            "nombre": "ANA LOPEZ",
+            "tratos": 3,
+            "valor_colocado": 3200000.0,
+            "valor_ingresado": 320000.0,
+            "meta_ventas": 4,
+            "meta_colocado": 4000000.0,
+            "meta_ingresado": 400000.0,
+            "sin_ventas": false,
+            "pct_ventas": 75,
+            "pct_colocado": 80,
+            "pct_ingresado": 80
+          },
+          {
+            "id": 102,
+            "nombre": "BRUNO DIAZ",
+            "tratos": 1,
+            "valor_colocado": 950000.0,
+            "valor_ingresado": 95000.0,
+            "meta_ventas": 3,
+            "meta_colocado": 3000000.0,
+            "meta_ingresado": 0.0,
+            "sin_ventas": false,
+            "pct_ventas": 33,
+            "pct_colocado": 32,
+            "pct_ingresado": null
+          },
+          {
+            "id": 103,
+            "nombre": "GABRIEL SOTO",
+            "tratos": 0,
+            "valor_colocado": 0.0,
+            "valor_ingresado": 0.0,
+            "meta_ventas": 3,
+            "meta_colocado": 3000000.0,
+            "meta_ingresado": 300000.0,
+            "sin_ventas": true,
+            "pct_ventas": 0,
+            "pct_colocado": 0,
+            "pct_ingresado": 0
+          }
+        ]
+      },
+      {
+        "id": 34823,
+        "manager": "Gerencia - Urbano",
+        "zona": "Urbano",
+        "metas": {
+          "ventas": 6,
+          "colocado": 5000000.0,
+          "ingresado": 500000.0
+        },
+        "totales": {
+          "ventas": 3,
+          "colocado": 1800000.0,
+          "ingresado": 145000.0
+        },
+        "pct": {
+          "ventas": 50,
+          "colocado": 36,
+          "ingresado": 29
+        },
+        "vendedores": [
+          {
+            "id": 301,
+            "nombre": "DIEGO MORA",
+            "tratos": 1,
+            "valor_colocado": 700000.0,
+            "valor_ingresado": 70000.0,
+            "meta_ventas": 2,
+            "meta_colocado": 1400000.0,
+            "meta_ingresado": 140000.0,
+            "sin_ventas": false,
+            "pct_ventas": 50,
+            "pct_colocado": 50,
+            "pct_ingresado": 50
+          },
+          {
+            "id": 302,
+            "nombre": "ELENA PAZ",
+            "tratos": 1,
+            "valor_colocado": 700000.0,
+            "valor_ingresado": 35000.0,
+            "meta_ventas": 0,
+            "meta_colocado": 0.0,
+            "meta_ingresado": 0.0,
+            "sin_ventas": false,
+            "pct_ventas": null,
+            "pct_colocado": null,
+            "pct_ingresado": null
+          },
+          {
+            "id": 303,
+            "nombre": "FER GIL",
+            "tratos": 1,
+            "valor_colocado": 400000.0,
+            "valor_ingresado": 40000.0,
+            "meta_ventas": 0,
+            "meta_colocado": 0.0,
+            "meta_ingresado": 0.0,
+            "sin_ventas": false,
+            "pct_ventas": null,
+            "pct_colocado": null,
+            "pct_ingresado": null
+          }
+        ]
+      },
+      {
+        "id": 45956,
+        "manager": "Gerencia - Satelite",
+        "zona": "Satelite",
+        "metas": {
+          "ventas": 5,
+          "colocado": 5000000.0,
+          "ingresado": 500000.0
+        },
+        "totales": {
+          "ventas": 1,
+          "colocado": 500000.0,
+          "ingresado": 50000.0
+        },
+        "pct": {
+          "ventas": 20,
+          "colocado": 10,
+          "ingresado": 10
+        },
+        "vendedores": [
+          {
+            "id": 201,
+            "nombre": "CARLA RUIZ",
+            "tratos": 1,
+            "valor_colocado": 500000.0,
+            "valor_ingresado": 50000.0,
+            "meta_ventas": 0,
+            "meta_colocado": 0.0,
+            "meta_ingresado": 0.0,
+            "sin_ventas": false,
+            "pct_ventas": null,
+            "pct_colocado": null,
+            "pct_ingresado": null
+          }
+        ]
+      },
+      {
+        "id": 60594,
+        "manager": "Gerencia - Campestre",
+        "zona": "Campestre",
+        "metas": {
+          "ventas": 0,
+          "colocado": 0.0,
+          "ingresado": 0.0
+        },
+        "totales": {
+          "ventas": 0,
+          "colocado": 0.0,
+          "ingresado": 0.0
+        },
+        "pct": {
+          "ventas": null,
+          "colocado": null,
+          "ingresado": null
+        },
+        "vendedores": []
+      },
+      {
+        "id": 55556,
+        "manager": "Gerencia - Costa 2",
+        "zona": "Costa 2",
+        "metas": {
+          "ventas": 4,
+          "colocado": 3000000.0,
+          "ingresado": 200000.0
+        },
+        "totales": {
+          "ventas": 0,
+          "colocado": 0.0,
+          "ingresado": 0.0
+        },
+        "pct": {
+          "ventas": 0,
+          "colocado": 0,
+          "ingresado": 0
+        },
+        "vendedores": []
+      }
+    ]
+  },
+  "F3_detalle_vendedor_por_desarrollo": {
+    "generated_at": "2026-10-08T18:33:51+00:00",
+    "period": {
+      "start": "2026-10-01",
+      "end": "2026-10-31",
+      "label": "Octubre 2026"
+    },
+    "expected_pct": 25.8,
+    "trend_threshold_pct": 20.6,
+    "metas_missing": false,
+    "gerencia_label": "Todas las gerencias",
+    "available_gerencias": [
+      {
+        "id": 60594,
+        "label": "Gerencia - Campestre"
+      },
+      {
+        "id": 55556,
+        "label": "Gerencia - Costa 2"
+      },
+      {
+        "id": 60586,
+        "label": "Petra Sanchez - Costa 1"
+      },
+      {
+        "id": 45956,
+        "label": "Gerencia - Satelite"
+      },
+      {
+        "id": 34823,
+        "label": "Gerencia - Urbano"
+      }
+    ],
+    "total_vendedores": 6,
+    "vendedores": [
+      {
+        "vendedor_id": 101,
+        "vendedor": "ANA LOPEZ",
+        "gerencia_id": 60586,
+        "branch": "Petra Sanchez - Costa 1",
+        "num_ventas": 3,
+        "valor_colocado": 3200000.0,
+        "valor_ingresado": 320000.0,
+        "meta_ventas": 4,
+        "meta_colocado": 4000000.0,
+        "meta_ingresado": 400000.0,
+        "pct_colocado": 80,
+        "pct_ingresado": 80,
+        "trend_colocado": "up",
+        "trend_ingresado": "up"
+      },
+      {
+        "vendedor_id": 102,
+        "vendedor": "BRUNO DIAZ",
+        "gerencia_id": 60586,
+        "branch": "Petra Sanchez - Costa 1",
+        "num_ventas": 1,
+        "valor_colocado": 950000.0,
+        "valor_ingresado": 95000.0,
+        "meta_ventas": 3,
+        "meta_colocado": 3000000.0,
+        "meta_ingresado": 0.0,
+        "pct_colocado": 32,
+        "pct_ingresado": 0,
+        "trend_colocado": "up",
+        "trend_ingresado": "down"
+      },
+      {
+        "vendedor_id": 201,
+        "vendedor": "CARLA RUIZ",
+        "gerencia_id": 45956,
+        "branch": "Gerencia - Satelite",
+        "num_ventas": 1,
+        "valor_colocado": 500000.0,
+        "valor_ingresado": 50000.0,
+        "meta_ventas": 0,
+        "meta_colocado": 0.0,
+        "meta_ingresado": 0.0,
+        "pct_colocado": 0,
+        "pct_ingresado": 0,
+        "trend_colocado": "down",
+        "trend_ingresado": "down"
+      },
+      {
+        "vendedor_id": 301,
+        "vendedor": "DIEGO MORA",
+        "gerencia_id": 34823,
+        "branch": "Gerencia - Urbano",
+        "num_ventas": 1,
+        "valor_colocado": 700000.0,
+        "valor_ingresado": 70000.0,
+        "meta_ventas": 2,
+        "meta_colocado": 1400000.0,
+        "meta_ingresado": 140000.0,
+        "pct_colocado": 50,
+        "pct_ingresado": 50,
+        "trend_colocado": "up",
+        "trend_ingresado": "up"
+      },
+      {
+        "vendedor_id": 302,
+        "vendedor": "ELENA PAZ",
+        "gerencia_id": 34823,
+        "branch": "Gerencia - Urbano",
+        "num_ventas": 1,
+        "valor_colocado": 700000.0,
+        "valor_ingresado": 35000.0,
+        "meta_ventas": 0,
+        "meta_colocado": 0.0,
+        "meta_ingresado": 0.0,
+        "pct_colocado": 0,
+        "pct_ingresado": 0,
+        "trend_colocado": "down",
+        "trend_ingresado": "down"
+      },
+      {
+        "vendedor_id": 303,
+        "vendedor": "FER GIL",
+        "gerencia_id": 34823,
+        "branch": "Gerencia - Urbano",
+        "num_ventas": 1,
+        "valor_colocado": 400000.0,
+        "valor_ingresado": 40000.0,
+        "meta_ventas": 0,
+        "meta_colocado": 0.0,
+        "meta_ingresado": 0.0,
+        "pct_colocado": 0,
+        "pct_ingresado": 0,
+        "trend_colocado": "down",
+        "trend_ingresado": "down"
+      }
+    ],
+    "top_items": [
+      {
+        "vendedor_id": 101,
+        "vendedor": "ANA LOPEZ",
+        "gerencia_id": 60586,
+        "branch": "Petra Sanchez - Costa 1",
+        "num_ventas": 3,
+        "valor_colocado": 3200000.0,
+        "valor_ingresado": 320000.0,
+        "meta_ventas": 4,
+        "meta_colocado": 4000000.0,
+        "meta_ingresado": 400000.0,
+        "pct_colocado": 80,
+        "pct_ingresado": 80,
+        "trend_colocado": "up",
+        "trend_ingresado": "up"
+      },
+      {
+        "vendedor_id": 102,
+        "vendedor": "BRUNO DIAZ",
+        "gerencia_id": 60586,
+        "branch": "Petra Sanchez - Costa 1",
+        "num_ventas": 1,
+        "valor_colocado": 950000.0,
+        "valor_ingresado": 95000.0,
+        "meta_ventas": 3,
+        "meta_colocado": 3000000.0,
+        "meta_ingresado": 0.0,
+        "pct_colocado": 32,
+        "pct_ingresado": 0,
+        "trend_colocado": "up",
+        "trend_ingresado": "down"
+      },
+      {
+        "vendedor_id": 201,
+        "vendedor": "CARLA RUIZ",
+        "gerencia_id": 45956,
+        "branch": "Gerencia - Satelite",
+        "num_ventas": 1,
+        "valor_colocado": 500000.0,
+        "valor_ingresado": 50000.0,
+        "meta_ventas": 0,
+        "meta_colocado": 0.0,
+        "meta_ingresado": 0.0,
+        "pct_colocado": 0,
+        "pct_ingresado": 0,
+        "trend_colocado": "down",
+        "trend_ingresado": "down"
+      },
+      {
+        "vendedor_id": 301,
+        "vendedor": "DIEGO MORA",
+        "gerencia_id": 34823,
+        "branch": "Gerencia - Urbano",
+        "num_ventas": 1,
+        "valor_colocado": 700000.0,
+        "valor_ingresado": 70000.0,
+        "meta_ventas": 2,
+        "meta_colocado": 1400000.0,
+        "meta_ingresado": 140000.0,
+        "pct_colocado": 50,
+        "pct_ingresado": 50,
+        "trend_colocado": "up",
+        "trend_ingresado": "up"
+      },
+      {
+        "vendedor_id": 302,
+        "vendedor": "ELENA PAZ",
+        "gerencia_id": 34823,
+        "branch": "Gerencia - Urbano",
+        "num_ventas": 1,
+        "valor_colocado": 700000.0,
+        "valor_ingresado": 35000.0,
+        "meta_ventas": 0,
+        "meta_colocado": 0.0,
+        "meta_ingresado": 0.0,
+        "pct_colocado": 0,
+        "pct_ingresado": 0,
+        "trend_colocado": "down",
+        "trend_ingresado": "down"
+      }
+    ],
+    "totals": {
+      "num_ventas": 8,
+      "valor_colocado": 6450000.0,
+      "valor_ingresado": 610000.0,
+      "meta_colocado": 8400000.0,
+      "meta_ingresado": 540000.0,
+      "pct_colocado": 77,
+      "pct_ingresado": 113
+    },
+    "metrics": [
+      {
+        "id": "pct_colocado",
+        "label": "Avance Valor Colocado vs Meta",
+        "format": "percent",
+        "items": [
+          {
+            "vendedor_id": 101,
+            "vendedor": "ANA LOPEZ",
+            "branch": "Petra Sanchez - Costa 1",
+            "value": 80,
+            "trend": "up",
+            "percent_of_leader": 100.0
+          },
+          {
+            "vendedor_id": 301,
+            "vendedor": "DIEGO MORA",
+            "branch": "Gerencia - Urbano",
+            "value": 50,
+            "trend": "up",
+            "percent_of_leader": 62.5
+          },
+          {
+            "vendedor_id": 102,
+            "vendedor": "BRUNO DIAZ",
+            "branch": "Petra Sanchez - Costa 1",
+            "value": 32,
+            "trend": "up",
+            "percent_of_leader": 40.0
+          },
+          {
+            "vendedor_id": 201,
+            "vendedor": "CARLA RUIZ",
+            "branch": "Gerencia - Satelite",
+            "value": 0,
+            "trend": "down",
+            "percent_of_leader": 0.0
+          },
+          {
+            "vendedor_id": 302,
+            "vendedor": "ELENA PAZ",
+            "branch": "Gerencia - Urbano",
+            "value": 0,
+            "trend": "down",
+            "percent_of_leader": 0.0
+          }
+        ]
+      },
+      {
+        "id": "pct_ingresado",
+        "label": "Avance Valor Ingresado vs Meta",
+        "format": "percent",
+        "items": [
+          {
+            "vendedor_id": 101,
+            "vendedor": "ANA LOPEZ",
+            "branch": "Petra Sanchez - Costa 1",
+            "value": 80,
+            "trend": "up",
+            "percent_of_leader": 100.0
+          },
+          {
+            "vendedor_id": 301,
+            "vendedor": "DIEGO MORA",
+            "branch": "Gerencia - Urbano",
+            "value": 50,
+            "trend": "up",
+            "percent_of_leader": 62.5
+          },
+          {
+            "vendedor_id": 102,
+            "vendedor": "BRUNO DIAZ",
+            "branch": "Petra Sanchez - Costa 1",
+            "value": 0,
+            "trend": "down",
+            "percent_of_leader": 0.0
+          },
+          {
+            "vendedor_id": 201,
+            "vendedor": "CARLA RUIZ",
+            "branch": "Gerencia - Satelite",
+            "value": 0,
+            "trend": "down",
+            "percent_of_leader": 0.0
+          },
+          {
+            "vendedor_id": 302,
+            "vendedor": "ELENA PAZ",
+            "branch": "Gerencia - Urbano",
+            "value": 0,
+            "trend": "down",
+            "percent_of_leader": 0.0
+          }
+        ]
+      }
+    ],
+    "detalle": {
+      "101": [
+        {
+          "desarrollo_id": 17,
+          "desarrollo": "Villa Toscana",
+          "totales": {
+            "num_ventas": 2,
+            "colocado": 2300000.0,
+            "ingresado": 230000.0
+          },
+          "lotes": [
+            {
+              "nombre": "VILLA TOSCANA3 PORTOFINO M49-L55",
+              "num_ventas": 1,
+              "colocado": 1200000.0,
+              "ingresado": 120000.0
+            },
+            {
+              "nombre": "VILLA TOSCANA3 PORTOFINO M49-L56",
+              "num_ventas": 1,
+              "colocado": 1100000.0,
+              "ingresado": 110000.0
+            }
+          ]
+        },
+        {
+          "desarrollo_id": 22,
+          "desarrollo": "Punta Azul",
+          "totales": {
+            "num_ventas": 1,
+            "colocado": 900000.0,
+            "ingresado": 90000.0
+          },
+          "lotes": [
+            {
+              "nombre": "PUNTA AZUL M3-L8",
+              "num_ventas": 1,
+              "colocado": 900000.0,
+              "ingresado": 90000.0
+            }
+          ]
+        }
+      ],
+      "102": [
+        {
+          "desarrollo_id": 22,
+          "desarrollo": "Punta Azul",
+          "totales": {
+            "num_ventas": 1,
+            "colocado": 950000.0,
+            "ingresado": 95000.0
+          },
+          "lotes": [
+            {
+              "nombre": "PUNTA AZUL M3-L9",
+              "num_ventas": 1,
+              "colocado": 950000.0,
+              "ingresado": 95000.0
+            }
+          ]
+        }
+      ],
+      "201": [
+        {
+          "desarrollo_id": 0,
+          "desarrollo": "Sin desarrollo",
+          "totales": {
+            "num_ventas": 1,
+            "colocado": 500000.0,
+            "ingresado": 50000.0
+          },
+          "lotes": [
+            {
+              "nombre": "Sin trato",
+              "num_ventas": 1,
+              "colocado": 500000.0,
+              "ingresado": 50000.0
+            }
+          ]
+        }
+      ],
+      "301": [
+        {
+          "desarrollo_id": 30,
+          "desarrollo": "Bosque Real",
+          "totales": {
+            "num_ventas": 1,
+            "colocado": 700000.0,
+            "ingresado": 70000.0
+          },
+          "lotes": [
+            {
+              "nombre": "BOSQUE REAL L1",
+              "num_ventas": 1,
+              "colocado": 700000.0,
+              "ingresado": 70000.0
+            }
+          ]
+        }
+      ],
+      "302": [
+        {
+          "desarrollo_id": 30,
+          "desarrollo": "Bosque Real",
+          "totales": {
+            "num_ventas": 1,
+            "colocado": 700000.0,
+            "ingresado": 35000.0
+          },
+          "lotes": [
+            {
+              "nombre": "BOSQUE REAL L2",
+              "num_ventas": 1,
+              "colocado": 700000.0,
+              "ingresado": 35000.0
+            }
+          ]
+        }
+      ],
+      "303": [
+        {
+          "desarrollo_id": 30,
+          "desarrollo": "Bosque Real",
+          "totales": {
+            "num_ventas": 1,
+            "colocado": 400000.0,
+            "ingresado": 40000.0
+          },
+          "lotes": [
+            {
+              "nombre": "BOSQUE REAL L3",
+              "num_ventas": 1,
+              "colocado": 400000.0,
+              "ingresado": 40000.0
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "F4_vendedor_a_detalle": {
+    "generated_at": "2026-10-08T18:33:51+00:00",
+    "period": {
+      "start": "2026-10-01",
+      "end": "2026-10-31",
+      "label": "Octubre 2026"
+    },
+    "metas_missing": false,
+    "gerencias": [
+      {
+        "id": 60586,
+        "manager": "Petra Sanchez - Costa 1",
+        "zona": "Costa 1",
+        "totales": {
+          "colocado": 4150000.0,
+          "ingresado": 415000.0,
+          "meta_colocado": 10000000.0,
+          "meta_ingresado": 700000.0
+        },
+        "pct_colocado": 41.5,
+        "pct_ingresado": 59.3,
+        "vendedores": [
+          {
+            "id": 101,
+            "nombre": "ANA LOPEZ",
+            "totales": {
+              "colocado": 3200000.0,
+              "ingresado": 320000.0
+            },
+            "metas": {
+              "colocado": 4000000.0,
+              "ingresado": 400000.0
+            },
+            "desarrollos": [
+              {
+                "id": 17,
+                "nombre": "Villa Toscana",
+                "totales": {
+                  "colocado": 2300000.0,
+                  "ingresado": 230000.0
+                },
+                "lotes": [
+                  {
+                    "id": "VILLA TOSCANA3 PORTOFINO M49-L55",
+                    "nombre": "VILLA TOSCANA3 PORTOFINO M49-L55",
+                    "colocado": 1200000.0,
+                    "ingresado": 120000.0
+                  },
+                  {
+                    "id": "VILLA TOSCANA3 PORTOFINO M49-L56",
+                    "nombre": "VILLA TOSCANA3 PORTOFINO M49-L56",
+                    "colocado": 1100000.0,
+                    "ingresado": 110000.0
+                  }
+                ]
+              },
+              {
+                "id": 22,
+                "nombre": "Punta Azul",
+                "totales": {
+                  "colocado": 900000.0,
+                  "ingresado": 90000.0
+                },
+                "lotes": [
+                  {
+                    "id": "PUNTA AZUL M3-L8",
+                    "nombre": "PUNTA AZUL M3-L8",
+                    "colocado": 900000.0,
+                    "ingresado": 90000.0
+                  }
+                ]
+              }
+            ],
+            "pct_colocado": 80.0,
+            "pct_ingresado": 80.0
+          },
+          {
+            "id": 102,
+            "nombre": "BRUNO DIAZ",
+            "totales": {
+              "colocado": 950000.0,
+              "ingresado": 95000.0
+            },
+            "metas": {
+              "colocado": 3000000.0,
+              "ingresado": 0.0
+            },
+            "desarrollos": [
+              {
+                "id": 22,
+                "nombre": "Punta Azul",
+                "totales": {
+                  "colocado": 950000.0,
+                  "ingresado": 95000.0
+                },
+                "lotes": [
+                  {
+                    "id": "PUNTA AZUL M3-L9",
+                    "nombre": "PUNTA AZUL M3-L9",
+                    "colocado": 950000.0,
+                    "ingresado": 95000.0
+                  }
+                ]
+              }
+            ],
+            "pct_colocado": 31.7,
+            "pct_ingresado": null
+          },
+          {
+            "id": 103,
+            "nombre": "GABRIEL SOTO",
+            "totales": {
+              "colocado": 0.0,
+              "ingresado": 0.0
+            },
+            "metas": {
+              "colocado": 3000000.0,
+              "ingresado": 300000.0
+            },
+            "desarrollos": [],
+            "pct_colocado": 0.0,
+            "pct_ingresado": 0.0
+          }
+        ]
+      },
+      {
+        "id": 34823,
+        "manager": "Gerencia - Urbano",
+        "zona": "Urbano",
+        "totales": {
+          "colocado": 1800000.0,
+          "ingresado": 145000.0,
+          "meta_colocado": 1400000.0,
+          "meta_ingresado": 140000.0
+        },
+        "pct_colocado": 128.6,
+        "pct_ingresado": 103.6,
+        "vendedores": [
+          {
+            "id": 301,
+            "nombre": "DIEGO MORA",
+            "totales": {
+              "colocado": 700000.0,
+              "ingresado": 70000.0
+            },
+            "metas": {
+              "colocado": 1400000.0,
+              "ingresado": 140000.0
+            },
+            "desarrollos": [
+              {
+                "id": 30,
+                "nombre": "Bosque Real",
+                "totales": {
+                  "colocado": 700000.0,
+                  "ingresado": 70000.0
+                },
+                "lotes": [
+                  {
+                    "id": "BOSQUE REAL L1",
+                    "nombre": "BOSQUE REAL L1",
+                    "colocado": 700000.0,
+                    "ingresado": 70000.0
+                  }
+                ]
+              }
+            ],
+            "pct_colocado": 50.0,
+            "pct_ingresado": 50.0
+          },
+          {
+            "id": 302,
+            "nombre": "ELENA PAZ",
+            "totales": {
+              "colocado": 700000.0,
+              "ingresado": 35000.0
+            },
+            "metas": {
+              "colocado": 0.0,
+              "ingresado": 0.0
+            },
+            "desarrollos": [
+              {
+                "id": 30,
+                "nombre": "Bosque Real",
+                "totales": {
+                  "colocado": 700000.0,
+                  "ingresado": 35000.0
+                },
+                "lotes": [
+                  {
+                    "id": "BOSQUE REAL L2",
+                    "nombre": "BOSQUE REAL L2",
+                    "colocado": 700000.0,
+                    "ingresado": 35000.0
+                  }
+                ]
+              }
+            ],
+            "pct_colocado": null,
+            "pct_ingresado": null
+          },
+          {
+            "id": 303,
+            "nombre": "FER GIL",
+            "totales": {
+              "colocado": 400000.0,
+              "ingresado": 40000.0
+            },
+            "metas": {
+              "colocado": 0.0,
+              "ingresado": 0.0
+            },
+            "desarrollos": [
+              {
+                "id": 30,
+                "nombre": "Bosque Real",
+                "totales": {
+                  "colocado": 400000.0,
+                  "ingresado": 40000.0
+                },
+                "lotes": [
+                  {
+                    "id": "BOSQUE REAL L3",
+                    "nombre": "BOSQUE REAL L3",
+                    "colocado": 400000.0,
+                    "ingresado": 40000.0
+                  }
+                ]
+              }
+            ],
+            "pct_colocado": null,
+            "pct_ingresado": null
+          }
+        ]
+      },
+      {
+        "id": 45956,
+        "manager": "Gerencia - Satelite",
+        "zona": "Satelite",
+        "totales": {
+          "colocado": 500000.0,
+          "ingresado": 50000.0,
+          "meta_colocado": 0.0,
+          "meta_ingresado": 0.0
+        },
+        "pct_colocado": null,
+        "pct_ingresado": null,
+        "vendedores": [
+          {
+            "id": 201,
+            "nombre": "CARLA RUIZ",
+            "totales": {
+              "colocado": 500000.0,
+              "ingresado": 50000.0
+            },
+            "metas": {
+              "colocado": 0.0,
+              "ingresado": 0.0
+            },
+            "desarrollos": [
+              {
+                "id": 0,
+                "nombre": "Sin desarrollo",
+                "totales": {
+                  "colocado": 500000.0,
+                  "ingresado": 50000.0
+                },
+                "lotes": [
+                  {
+                    "id": "Sin trato",
+                    "nombre": "Sin trato",
+                    "colocado": 500000.0,
+                    "ingresado": 50000.0
+                  }
+                ]
+              }
+            ],
+            "pct_colocado": null,
+            "pct_ingresado": null
+          }
+        ]
+      },
+      {
+        "id": 60594,
+        "manager": "Gerencia - Campestre",
+        "zona": "Campestre",
+        "totales": {
+          "colocado": 0.0,
+          "ingresado": 0.0,
+          "meta_colocado": 0.0,
+          "meta_ingresado": 0.0
+        },
+        "pct_colocado": null,
+        "pct_ingresado": null,
+        "vendedores": []
+      },
+      {
+        "id": 55556,
+        "manager": "Gerencia - Costa 2",
+        "zona": "Costa 2",
+        "totales": {
+          "colocado": 0.0,
+          "ingresado": 0.0,
+          "meta_colocado": 0.0,
+          "meta_ingresado": 0.0
+        },
+        "pct_colocado": null,
+        "pct_ingresado": null,
+        "vendedores": []
+      }
+    ]
+  },
+  "F5_top_ranking_vendedores": {
+    "generated_at": "2026-10-08T18:33:51+00:00",
+    "period": {
+      "start": "2026-10-01",
+      "end": "2026-10-31",
+      "label": "Octubre 2026"
+    },
+    "gerencia_label": "Todas las gerencias",
+    "gerencia_filter": null,
+    "available_gerencias": [
+      {
+        "id": 60594,
+        "label": "Gerencia - Campestre"
+      },
+      {
+        "id": 55556,
+        "label": "Gerencia - Costa 2"
+      },
+      {
+        "id": 60586,
+        "label": "Petra Sanchez - Costa 1"
+      },
+      {
+        "id": 45956,
+        "label": "Gerencia - Satelite"
+      },
+      {
+        "id": 34823,
+        "label": "Gerencia - Urbano"
+      }
+    ],
+    "limit": 15,
+    "total_vendedores": 6,
+    "vendedores": [
+      {
+        "rank": 1,
+        "vendedor_id": 101,
+        "vendedor": "Ana Lopez",
+        "gerencia": "Petra Sanchez - Costa 1",
+        "gerencia_id": 60586,
+        "valor_colocado": 3200000.0,
+        "valor_ingresado": 320000.0,
+        "num_ventas": 3
+      },
+      {
+        "rank": 2,
+        "vendedor_id": 102,
+        "vendedor": "Bruno Diaz",
+        "gerencia": "Petra Sanchez - Costa 1",
+        "gerencia_id": 60586,
+        "valor_colocado": 950000.0,
+        "valor_ingresado": 95000.0,
+        "num_ventas": 1
+      },
+      {
+        "rank": 3,
+        "vendedor_id": 301,
+        "vendedor": "Diego Mora",
+        "gerencia": "Gerencia - Urbano",
+        "gerencia_id": 34823,
+        "valor_colocado": 700000.0,
+        "valor_ingresado": 70000.0,
+        "num_ventas": 1
+      },
+      {
+        "rank": 4,
+        "vendedor_id": 302,
+        "vendedor": "Elena Paz",
+        "gerencia": "Gerencia - Urbano",
+        "gerencia_id": 34823,
+        "valor_colocado": 700000.0,
+        "valor_ingresado": 35000.0,
+        "num_ventas": 1
+      },
+      {
+        "rank": 5,
+        "vendedor_id": 201,
+        "vendedor": "Carla Ruiz",
+        "gerencia": "Gerencia - Satelite",
+        "gerencia_id": 45956,
+        "valor_colocado": 500000.0,
+        "valor_ingresado": 50000.0,
+        "num_ventas": 1
+      },
+      {
+        "rank": 6,
+        "vendedor_id": 303,
+        "vendedor": "Fer Gil",
+        "gerencia": "Gerencia - Urbano",
+        "gerencia_id": 34823,
+        "valor_colocado": 400000.0,
+        "valor_ingresado": 40000.0,
+        "num_ventas": 1
+      }
+    ]
+  }
+}
